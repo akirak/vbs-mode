@@ -186,4 +186,5 @@
 ;;;###autoload
 (add-to-list 'auto-mode-alist '("\\.\\(vbs?\\|wsf\\)$" . vbscript-mode))
 
+(provide 'vbscript-mode)
 ;;; vbscript-mode.el ends here
